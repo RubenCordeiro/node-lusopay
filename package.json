@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/RubenCordeiro/node-lusopay#readme",
   "dependencies": {
-    "soap": "^0.8.0"
+    "soap": "~0.8.0"
   }
 }
